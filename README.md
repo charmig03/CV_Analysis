@@ -8,4 +8,4 @@ Install the necessary software and import it as ai_final_proj2.ipynb.
 
 Next, execute the code.
 
-Step 3: insert a PDF at the very end to get the results.
+Step 2: insert a PDF at the very end to get the results.
